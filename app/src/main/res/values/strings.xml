@@ -14,6 +14,12 @@
     </string-array>
     <string name="add_cat_savebtn">Save</string>
     <string name="add_cat_cancelbtn">Cancel</string>
+    <string name="menu_report_label">Reports</string>
+    <string name="menu_addInc_label">Add Income</string>
+    <string name="menu_addExp_label">Add Expense</string>
+    <string name="menu_budgets">Budgets</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_about">About</string>
 
     <string name="reports_exp_label">Expenses Report</string>
     <string-array name="expenseCategory_spinner">

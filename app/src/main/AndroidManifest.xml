@@ -88,13 +88,14 @@
                 android:value=".Overview" />
         </activity>
         <activity
-            android:name=".Reports"
-            android:label="@string/title_activity_reports"
-            android:parentActivityName=".Overview" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.fbh.h4m.pesa.Overview" />
-        </activity>
+        android:name=".ExpensesReports"
+        android:label="@string/title_activity_reports"
+        android:parentActivityName=".Overview" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.fbh.h4m.pesa.Overview" />
+    </activity>
+
     </application>
 
 </manifest>

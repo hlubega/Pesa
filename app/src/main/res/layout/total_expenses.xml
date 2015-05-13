@@ -30,7 +30,7 @@
         android:layout_below="@+id/tvDateSelect"
         android:layout_alignLeft="@+id/tvDateSelect"
         android:layout_alignStart="@+id/tvDateSelect"
-        android:layout_marginTop="49dp"
+        android:layout_marginTop="15dp"
         android:weightSum="100"
         android:id="@+id/linearLayout6">
 
@@ -59,7 +59,7 @@
         android:layout_alignLeft="@+id/linearLayout6"
         android:layout_alignStart="@+id/linearLayout6"
         android:weightSum="100"
-        android:layout_marginTop="49dp"
+        android:layout_marginTop="25dp"
         android:id="@+id/linearLayout7">
 
         <EditText
